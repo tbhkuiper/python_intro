@@ -2,7 +2,7 @@
 *~
 
 # Compiled Python
-*.pyc
+*.ps
 
 # TeX files
 *.aux
